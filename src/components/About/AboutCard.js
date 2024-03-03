@@ -8,10 +8,10 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            Hi Everyone, I am <span className="purple">Oliver Dela Fuente </span>
+            from <span className="purple"> Manila Philippines</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am currently employed as a Application Developer at APPTechnology Experts Inc.
             <br />
             I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
             Mesra.
@@ -21,20 +21,20 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Watching Animes
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Coding outside work
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Reading
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Oliver</footer>
         </blockquote>
       </Card.Body>
     </Card>
